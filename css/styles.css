@@ -1,0 +1,223 @@
+/* Base stayles */
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  background-color: #fff;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+
+ul {
+  list-style-type: none;
+}
+
+/* Heder section */
+
+.header {
+}
+
+.header-nav {
+  color: #2e2f42;
+  font-family: Roboto;
+  font-weight: 500;
+}
+
+.logo-link {
+  font-family: Raleway, sans-serif;
+  color: #4d5ae5;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+
+.logo-accent {
+  color: #2e2f42;
+}
+
+.header-nav-list {
+}
+.header-nav-item {
+}
+
+.header-nav-link {
+  color: #2e2f42;
+}
+
+.header-nav-link:hover {
+  color: #404bbf;
+}
+
+.header-nav-link:focus {
+  color: #404bbf;
+}
+
+.header-nav-link:active {
+  color: #404bbf;
+}
+
+.heder-address {
+  color: #434455;
+  font-style: normal;
+}
+
+.heder-address-list {
+}
+.heder-address-item {
+}
+
+.heder-address-link:hover {
+  color: #404bbf;
+}
+
+.heder-address-link:focus {
+  color: #404bbf;
+}
+
+.heder-address-link:active {
+}
+
+/* Hero */
+.section-hero {
+  background-color: #2e2f42;
+}
+
+.section-hero-title {
+  color: #fff;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 1.12px;
+  text-align: center;
+}
+
+.section-hero-button {
+  font-family: 'Roboto', sans-serif;
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.64px;
+  cursor: pointer;
+  background-color: #4d5ae5;
+  line-height: 1.5;
+}
+
+.section-hero-button:hover {
+  background-color: #404bbf;
+}
+
+.section-hero-button:focus {
+  background-color: #404bbf;
+}
+
+/* Our goal */
+.section-goal {
+}
+.section-goal-title {
+  text-align: center;
+}
+.section-goal-list {
+}
+.section-goal-item {
+}
+
+.section-goal-subtitle {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+}
+
+.section-goal-text {
+}
+
+/* Our Team */
+.section-team {
+  background-color: #f4f4fd;
+}
+
+.section-team-title {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.72px;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.section-team-list {
+}
+
+.section-team-item {
+  background-color: #fff;
+}
+
+.section-team-img {
+}
+
+.section-team-subtitle {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+}
+
+.section-team-text {
+}
+
+/* Our Portfolio */
+.section-portfolio {
+}
+
+.section-portfolio-title {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.72px;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+.section-portfolio-list {
+}
+.section-portfolio-item {
+}
+.section-portfolio-img {
+}
+
+.section-portfolio-subtitle {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.4px;
+}
+
+.section-portfolio-text {
+}
+
+/* Footer */
+.footer {
+  background-color: #2e2f42;
+}
+
+.logo-light {
+  color: #f4f4fd;
+}
+
+.footer-text {
+  color: #f4f4fd;
+}
