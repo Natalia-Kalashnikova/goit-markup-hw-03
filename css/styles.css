@@ -82,12 +82,14 @@ ul {
 .header-nav-list {
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 .header-nav-item {
 }
 
 .header-nav-link {
   color: #2e2f42;
+  padding: 24px 0;
 }
 
 .header-nav-link:hover {
@@ -111,10 +113,15 @@ ul {
 .heder-address-list {
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
+
 .heder-address-item {
 }
 
+.heder-address-link {
+  padding: 24px 0;
+}
 .heder-address-link:hover {
   color: #404bbf;
 }
