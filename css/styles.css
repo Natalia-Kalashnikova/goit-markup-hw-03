@@ -52,6 +52,7 @@ ul {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 24px 0;
 }
 
 .header-nav {
@@ -71,8 +72,8 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
-
   margin-right: 76px;
+  padding: 24px 0;
 }
 
 .logo-accent {
