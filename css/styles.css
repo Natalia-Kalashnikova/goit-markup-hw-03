@@ -60,6 +60,7 @@ ul {
   font-weight: 500;
   align-items: center;
   display: flex;
+  padding: 24px 0;
 }
 
 .logo-link {
@@ -72,7 +73,6 @@ ul {
   letter-spacing: 0.54px;
   text-transform: uppercase;
   margin-right: 76px;
-  padding: 24px 0;
 }
 
 .logo-accent {
@@ -82,7 +82,6 @@ ul {
 .header-nav-list {
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
 .header-nav-item {
 }
@@ -111,7 +110,6 @@ ul {
 
 .heder-address-list {
   display: flex;
-  padding: 24px 0;
   gap: 40px;
 }
 .heder-address-item {
