@@ -273,11 +273,9 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.4px;
   margin-bottom: 8px;
-  padding-top: 32px;
 }
 
 .section-team-text {
-  padding-bottom: 32px;
 }
 
 /* Our Portfolio */
@@ -324,12 +322,10 @@ ul {
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.4px;
-  padding-bottom: 16px;
   margin-bottom: 8px;
 }
 
 .section-portfolio-text {
-  padding-bottom: 32px;
 }
 
 /* Footer */
